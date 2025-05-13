@@ -2,7 +2,19 @@
 
 # dependencies
 /node_modules
-
+/components.json
+/package-lock.json
+/pnpm-lock.yaml
+package.json
+/pnpm-lock.yaml
+/postcss.config.js
+/tsconfig.json
+/tsconfig.build.json
+/tsconfig.node.json
+/tailwind.config.js
+/tsconfig.json
+.gitignore
+/next-env.d.ts
 # next.js
 /.next/
 /out/
